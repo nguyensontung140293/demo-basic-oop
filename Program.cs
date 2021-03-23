@@ -15,9 +15,9 @@ namespace Demo
             Console.WriteLine("-------------------------------");
             Console.WriteLine("sử dụng abstract");
 
-            Abstract  abs = new Abstract();
-            abs.Show();
-            abs.Show();
+            Abstract  abs_new = new Abstract();
+            abs_new.Show();
+            abs_new.Show();
 
             // sử dụng abstract 
             Console.WriteLine("-------------------------------");
