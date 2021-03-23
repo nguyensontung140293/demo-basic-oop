@@ -28,6 +28,12 @@ namespace Demo
             poly.Main();
 
 
+            DemoLinq demoLinq = new DemoLinq();
+            demoLinq.Main();
+
+
+
+
             Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
