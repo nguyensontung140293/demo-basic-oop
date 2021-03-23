@@ -24,10 +24,10 @@ namespace Demo
             Console.WriteLine("sử dụng Polymorphism");
 
 
-            Polymorphism poly = new Polymorphism();
-            poly.Main();
+            Polymorphism poly_n = new Polymorphism();
+            poly_n.Main();
 
-
+             
             Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
