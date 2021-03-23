@@ -24,8 +24,8 @@ namespace Demo
             Console.WriteLine("sử dụng Polymorphism");
 
 
-            Polymorphism poly = new Polymorphism();
-            poly.Main();
+            Polymorphism poly_new = new Polymorphism();
+            poly_new.Main();
 
 
             DemoLinq demoLinq = new DemoLinq();
