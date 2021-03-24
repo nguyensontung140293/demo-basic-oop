@@ -15,17 +15,26 @@ namespace Demo
             Console.WriteLine("-------------------------------");
             Console.WriteLine("sử dụng abstract");
 
-            Abstract  abs_new = new Abstract();
-            abs_new.Show();
-            abs_new.Show();
+            Abstract  abs = new Abstract();
+            abs.Show();
+            abs.Show();
 
             // sử dụng abstract 
             Console.WriteLine("-------------------------------");
             Console.WriteLine("sử dụng Polymorphism");
 
 
-            Polymorphism poly = new Polymorphism();
-            poly.Main();
+            Polymorphism poly_new = new Polymorphism();
+            poly_new.Main();
+
+            Polymorphism poly_new2 = new Polymorphism();
+            poly_new2.Main();
+
+
+            DemoLinq demoLinq = new DemoLinq();
+            demoLinq.Main();
+
+
 
 
             Console.WriteLine("Hello World!");
