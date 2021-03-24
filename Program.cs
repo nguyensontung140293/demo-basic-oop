@@ -27,8 +27,8 @@ namespace Demo
             Polymorphism poly_new = new Polymorphism();
             poly_new.Main();
 
-            Polymorphism poly_new2 = new Polymorphism();
-            poly_new2.Main();
+            Polymorphism poly_new_dev = new Polymorphism();
+            poly_new2_dev.Main();
 
 
             DemoLinq demoLinq = new DemoLinq();
