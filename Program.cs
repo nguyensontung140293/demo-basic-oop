@@ -27,8 +27,12 @@ namespace Demo
             Polymorphism poly_new = new Polymorphism();
             poly_new.Main();
 
+
+            Polymorphism poly_new_dev = new Polymorphism();
+            poly_new2_dev.Main();
             Polymorphism poly_new23456789 = new Polymorphism();
             poly_new23456789.Main();
+
 
 
             DemoLinq demoLinq = new DemoLinq();
