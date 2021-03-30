@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TUNGMSI\\source\\repos\\Demo\\Demo.csproj",
-      "projectName": "Demo",
-      "projectPath": "C:\\Users\\TUNGMSI\\source\\repos\\Demo\\Demo.csproj",
+      "projectUniqueName": "D:\\Project\\DemoGit\\demo-basic-oop\\ef01\\ef01.csproj",
+      "projectName": "ef01",
+      "projectPath": "D:\\Project\\DemoGit\\demo-basic-oop\\ef01\\ef01.csproj",
       "packagesPath": "C:\\Users\\TUNGMSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TUNGMSI\\source\\repos\\Demo\\obj\\",
+      "outputPath": "D:\\Project\\DemoGit\\demo-basic-oop\\ef01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
